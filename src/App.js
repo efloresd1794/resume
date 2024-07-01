@@ -89,7 +89,7 @@ function App() {
           <ul>
             <li>Data Science: Python, Machine Learning, Deep Learning, GenAI.</li>
             <li>AWS Services: SageMaker, Bedrock, S3, Athena, Lambda, ECR, Lex, Rekognition, Textract, Transcribe, Comprehend, Quicksight, Amazon Q, API Gateway.</li>
-            <li>Software & Tools: Google Suite, MS Office, Anaconda, Jupyter, VSC.</li>
+            <li>Software & Tools: Google Suite, MS Office, Anaconda, Jupyter, VSC, ReactJS.</li>
             <li>Languages: Spanish (Native), English (Advanced).</li>
             <li>Soft: Empathy, Active Listening, Collaboration, Optimism, Persistence, Responsibility, Adaptability, Creativity, Communication.</li>
           </ul>
@@ -103,10 +103,10 @@ function App() {
                 <span className="s-date">1 week</span>
               </div>
               <p>We used AWS to develop a chatbot with Bedrock. 
-                The backend was built in lambda and Bedrock and Anthropic 
+                The backend was built in Lambda and Bedrock and Anthropic 
                 Claude v3.5 Sonnet were used to orchestrate processes that allow
                  managing the conversational flow. At the frontend level, 
-                 reactjs was used in a static S3 bucket.</p>
+                 Reactjs was used in a static S3 bucket.</p>
             </li>
             <li>
               <div className="education-header">
