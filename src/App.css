@@ -1,0 +1,91 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.App-header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.section {
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.section h2 {
+  border-bottom: 2px solid #282c34;
+  padding-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.App-footer {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid #282c34;
+}
+
+.App-footer a {
+  color: #61dafb;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.App-footer a:hover {
+  text-decoration: underline;
+}
+
+.certificates-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.s-date {
+  color: #666;
+  font-style: italic;
+}
+
+.education-list li {
+  margin-bottom: 20px;
+}
+
+.education-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 5px;
+}
+
+.education-header h3 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.education-list p {
+  margin: 5px 0;
+}
+
+.job-style {
+  font-style: italic;
+}
